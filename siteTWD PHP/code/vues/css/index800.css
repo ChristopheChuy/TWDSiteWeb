@@ -1,0 +1,49 @@
+@media screen and (max-width: 800px)
+{
+			article#art {
+                float:left;
+                width: 100%;
+				margin-top:20px;
+                color: white;
+            }
+			aside#asi {
+				display:none;
+            }
+		
+			a.pse:hover {
+				color:#CCCCCC;
+				text-decoration:none;
+			}
+			a.pse:visited {
+				color:#F6E497;
+			}
+			a.pse {
+				color:#CCCCCC;
+			}
+			section#secactu {
+    			border-bottom:solid 1px #DDDDDD;
+				padding-bottom:3%;
+			}
+			h2#titreact {
+                                color: #FFFFFF;
+				margin-top:0px;
+				text-decoration:underline;
+				text-align:center;
+			}
+			h2#titrenouv {
+				margin-top:0px;
+				text-decoration:underline;
+				text-align:center;
+			}
+			#menu li a {
+				display:block;
+				width:84px;
+				color:#000000;
+				text-decoration:none;
+				padding:5px;
+				border-right:dotted 1px #eeeeee;
+			}
+			li#cache {
+				display:block;
+			}
+}

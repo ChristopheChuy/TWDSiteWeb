@@ -1,0 +1,135 @@
+/* Police Ecriture */
+@font-face {
+    font-family: "1942";
+    src:url(police/1942.ttf);
+}	
+@font-face {
+    font-family: "HACKED";
+    src:url(police/HACKED.ttf);
+}	
+
+/* >Design */
+html {
+    background:url(../image/background.jpg) no-repeat fixed center top;
+    -webkit-background-size: cover; 
+    -moz-background-size: cover; 
+    -ms-background-size: cover; 
+    -o-background-size: cover; 
+    background-size: cover;
+}
+div.fond {
+    background-color: rgba(0, 0, 0, 0.5);
+    width:70%;
+    min-height:100%;
+    margin:auto;
+    position:relative;
+}
+
+/* Titre */
+h1.titre {
+    font-family:"1942";
+    color: #CCCCCC;
+    text-align:center;
+    font-size:5vw;
+    position:absolute;
+    top:12vw;
+    width:100%;
+    text-shadow: 5px 5px 5px #000000;				
+    z-index:2;
+}
+h1::selection {
+    background: transparent;
+}
+::selection {
+    background-color:rgba(0, 0, 0, 0.5) ;
+}
+/* Icone Facebook Twitter */
+img.face {
+    position:fixed;
+    width:3%;
+    right:7%;
+    top:100px;
+
+}
+img.face:hover{
+    transform: scale(1.25);   
+}
+img.twit {
+    position:fixed;
+    width:3%;
+    right:3%;
+    top:100px;
+
+} 
+img.twit:hover{
+    transform: scale(1.25);
+}
+/* Menu */
+#menu {
+    height:30px;
+    background:linear-gradient( #EEEEEE, #CCCCBB, #EEEEEE);
+    -moz-box-shadow: 0px 5px 5px 0px #CCCCCC;
+    -webkit-box-shadow: 0px 5px 5px 0px #CCCCCC;
+    -o-box-shadow: 0px 5px 5px 0px #CCCCCC;
+    box-shadow: 0px 5px 5px 0px #CCCCCC;  
+    margin:-6px 0 0 0;
+    padding:0 0 0 10px;
+    font-weight:bold;
+    font-family:"HACKED";
+
+}
+#menu ul {
+    margin:0;
+    padding:0;
+    list-style-type:none;
+    text-align:center;
+}
+#menu li {
+    float:left;
+    margin:auto;
+    padding:0;
+    background:linear-gradient( #EEEEEE, #CCCCBB, #EEEEEE);
+    line-height:20px;
+}
+#menu li a {
+    display:block;
+    width:121px;
+    color:#000000;
+    text-decoration:none;
+    padding:5px;
+    border-right:dotted 1px #eeeeee;
+}
+#menu li ul {
+    position:absolute;
+}
+#menu li a:hover {
+    color:#FFFFFF;
+    text-shadow: 4px 4px 2px #666;
+}
+#menu ul li ul {
+    display:none;
+}
+#menu ul li:hover ul {
+    display:block;
+}
+#menu li:hover ul li {
+    float:none;
+}
+#menu li ul li {
+    z-index:5;
+}
+
+/* Footer */
+footer.footer {
+    clear: both;
+    border-top: solid 1px #CCCCCC;
+    border-bottom: solid 1px #CCCCCC;
+}
+div.footer {
+    text-align:center;
+    font-size:small;
+    float:bottom;
+    margin:4px;
+    color:#CCCCCC;
+}
+

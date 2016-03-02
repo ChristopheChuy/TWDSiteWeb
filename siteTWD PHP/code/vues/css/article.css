@@ -1,0 +1,10 @@
+		/* Articles */
+			h3#article {
+				text-align:center;
+				text-decoration:underline;
+				color:#DDD;
+			}
+			p#article {
+				text-align:center;
+				color:#DDD;
+			}

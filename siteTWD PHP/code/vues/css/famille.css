@@ -1,0 +1,26 @@
+			table {
+  				border-collapse: collapse;
+				width:60%;
+				margin:auto;
+				color:#DDDDDD
+			}
+			td.rightbot {
+    			border-right: 1px solid #DDDDDD;
+				border-bottom: 1px solid #DDDDDD;
+				width:50%;
+			}
+			td#right {
+    			border-right: 1px solid #DDDDDD;
+				width:50%;
+			}
+			td.bot {
+				border-bottom: 1px solid #DDDDDD;
+			}
+			img.biopic {
+				width:50%;
+			}
+			div#tab {
+				width:99%;
+				float:left;
+				margin-top: 20px;
+			}

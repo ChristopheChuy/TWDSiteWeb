@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/wamp/www/ProjetPHP/DAL/News.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/DAL/Admin.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/gallerie.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/footer.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/header.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/DAL/Galerie.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/controller/Nettoyer.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/VueNews.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/ajouterNews.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/DAL/PersonnageGateway.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/modificationPersonne.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/index.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/modeles/ModelePersonnage.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/modeles/ModeleGalerie.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/modeles/ModeleNews.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/ajoutPersonne.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/controller/ControllerAdmin.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/controller/ControllerVisitor.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/controller/FrontController.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/contacter.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/DAL/Personnage.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/modeles/ModeleAdmin.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/controller/Validate.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/connexion.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/biographie.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/DAL/AdminGateway.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/DAL/NewsGateway.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/photogal.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/VueErreur.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/vues/accueil.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/DAL/Commentaire.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/DAL/Connexion.php</file>
+            <file>file:/C:/wamp/www/ProjetPHP/modeles/ModeleCommentaire.php</file>
+        </group>
+    </open-files>
+</project-private>

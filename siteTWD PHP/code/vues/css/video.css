@@ -1,0 +1,13 @@
+		div#descrvideo {
+				position:relative;
+				float:left;
+				width:58%;
+				margin: 1%;
+				margin-top:20px;
+			}
+			div#video {
+				float:left;
+				width:38%;
+				margin: 1%;
+				margin-top:20px;
+			}

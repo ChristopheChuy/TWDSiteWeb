@@ -1,0 +1,8 @@
+			p#photo {
+				display:inline-block;
+			}
+			img.prephoto {
+				color :black;
+				background-color : #E6E6E6;
+				padding : 0.5%;
+			}
